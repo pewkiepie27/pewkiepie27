@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Auriel Fritz Damasole IT Student 🌱 I’m currently learning Java Programming Language.
+- 👋 Hi, I’m Auriel Fritz Damasole, an IT Student. 🌱 I’m currently learning Java Programming Language.
 
 
 <!---
